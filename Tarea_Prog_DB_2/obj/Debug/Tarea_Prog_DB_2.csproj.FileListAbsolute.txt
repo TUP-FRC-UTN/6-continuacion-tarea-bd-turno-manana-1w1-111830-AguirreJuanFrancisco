@@ -1,0 +1,10 @@
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\bin\Debug\Tarea_Prog_DB_2.exe.config
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\bin\Debug\Tarea_Prog_DB_2.exe
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\bin\Debug\Tarea_Prog_DB_2.pdb
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.csprojAssemblyReference.cache
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.Form1.resources
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.Properties.Resources.resources
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.csproj.GenerateResource.cache
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.csproj.CoreCompileInputs.cache
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.exe
+C:\Users\Juan\source\repos\Tarea_Prog_DB_2\Tarea_Prog_DB_2\obj\Debug\Tarea_Prog_DB_2.pdb
