@@ -1,0 +1,2 @@
+Cargar listas, combos y grillas con las personas almacenadas en la BD.
+Utilizar SQLServer y trabajar con DataReaders.
